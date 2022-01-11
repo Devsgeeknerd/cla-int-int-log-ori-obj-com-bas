@@ -1,21 +1,80 @@
 # HTML5 E CSS3
 
-***Módulos:***
+***Aulas:***
 
-- [ ] Conceitos Básicos.
-- [ ] Entendendo o HTML com o CSS.
-- [ ] Listas, Tabelas e Formulários.
-- [ ] Características do CSS.
-- [ ] Responsividade.
-- [ ] Semântica e CSS Avançado.
-- [ ] Flexbox na Prática.
-- [ ] Seletores e CSS3.
-- [ ] Projeto — Awax.
-- [ ] CSS — Grid.
-- [ ] Questionário Prático.
-- [ ] Exercícios Práticos.
-- [ ] Projeto — Starbucks.
-- [ ] Série — HTML e CSS na Prática.
+- [ ] Tag — Header, Footer e Nav.
+- [ ] Tag — Section, Article, Aside e Time.
+- [ ] Compartibilidade com HTML5.
+- [ ] Tag — Input.
+- [ ] Atributo Data.
+- [ ] Tag — Vídeo.
+- [ ] Tag — Áudio.
+- [ ] Media Query.
+- [ ] Design Responsivo (Parte 1).
+- [ ] Design Responsivo (Parte 2).
+- [ ] Chrome Developer Tools.
+- [ ] Viewport.
+- [ ] Placeholder.
+- [ ] Autofocus.
+- [ ] Size e MaxLength.
+- [ ] Required Input.
+- [ ] AutoComplete.
+- [ ] Mormalize.css.
+- [ ] Borda Arredondada.
+- [ ] Degradê.
+- [ ] Animações.
+- [ ] Sombras.
+- [ ] Transições.
+- [ ] Webkit.
+- [ ] WordWrap.
+- [ ] Meta tag (Social Sharing).
+- [ ] Montando um Portal (Parte 1).
+- [ ] Montando um Portal (Parte 2).
+- [ ] Montando um Portal (Parte 3).
+- [ ] Montando um Portal (Parte 4).
+- [ ] Montando um Portal (Parte 5).
+- [ ] Montando um Portal (Parte 6).
+- [ ] Montando um Portal (Parte 7).
+- [ ] Montando um Portal (Parte 8).
+- [ ] Montando um Portal (Parte 9).
+- [ ] Montando um Portal (Parte 10).
+- [ ] Portal Responsivo (Parte 1).
+- [ ] Portal Responsivo (Parte 2).
+- [ ] Portal Responsivo (Parte 3).
+- [ ] Flexbox — Introdução e Direções.
+- [ ] Flexbox — Alinhamento (Parte 1).
+- [ ] Flexbox — Alinhamento (Parte 2).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 1).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 2).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 3).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 4).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 5).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 6).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 7).
+- [ ] Projeto — Site com Flexbox e HTML Semântico (Parte 8).
+- [ ] Exercício — Página de Tributo.
+- [ ] Exercício — Um Formulário de Pesquisa.
+- [ ] Exercício — Uma Página de Apresentação.
+- [ ] Exercício — Um Clone do Google.
+- [ ] Exercício — Um Clone dos Resultados do Google.
+- [ ] Seletor — Atributo (Parte 1).
+- [ ] Seletor — Atributo (Parte 2).
+- [ ] Seletor — Elemento Vazio.
+- [ ] Seletor — Primeira Letra e Primeira Linha.
+- [ ] Seletor — Primeiro e Último Elemento.
+- [ ] Seletor — Negativo.
+- [ ] Seletor — NTH.
+- [ ] Seletor — Before e After.
+- [ ] Seletor — Before e After (Exemplo do Balão).
+- [ ] RGBA.
+- [ ] Transform (Parte 1).
+- [ ] Transform (Parte 2).
+- [ ] Google Fonts.
+- [ ] Box-sizing.
+- [ ] Estilizar o Placeholder.
+- [ ] Exercício — Criar uma Tabela Zebra.
+- [ ] Exercício — Criar um Botão com CSS3.
+- [ ] Exercício — Criar uma Tarja de Canto.
 
 ## INFORMAÇÕES
 
