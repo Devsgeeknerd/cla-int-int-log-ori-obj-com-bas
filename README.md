@@ -12,6 +12,7 @@
 - [ ] Media Query.
 - [ ] Design Responsivo (Parte 1).
 - [ ] Design Responsivo (Parte 2).
+- [ ] Design Responsivo (Parte 3).
 - [ ] Chrome Developer Tools.
 - [ ] Viewport.
 - [ ] Placeholder.
