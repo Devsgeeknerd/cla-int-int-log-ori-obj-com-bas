@@ -1,6 +1,6 @@
-# HTML5 E CSS3
+# HTML 5 & CSS 3
 
-***Aulas:***
+***Conteúdo:***
 
 - [ ] Tag — Header, Footer e Nav.
 - [ ] Tag — Section, Article, Aside e Time.
