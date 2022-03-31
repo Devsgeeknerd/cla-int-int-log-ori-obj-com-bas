@@ -2,9 +2,9 @@
 
 ***Conteúdo:***
 
-- [ ] Tag — Header, Footer e Nav.
+- [ ] Tag — Header, Nav e Footer.
 - [ ] Tag — Section, Article, Aside e Time.
-- [ ] Compartibilidade com HTML5.
+- [ ] Compartibilidade com HTML 5.
 - [ ] Tag — Input.
 - [ ] Atributo Data.
 - [ ] Tag — Vídeo.
